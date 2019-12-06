@@ -1,0 +1,7 @@
+applications:
+- path: .
+memory: 128M
+instances: 1
+name: liveagent
+host: liveagent
+disk_quota: 256M
